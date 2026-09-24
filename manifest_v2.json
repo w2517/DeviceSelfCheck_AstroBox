@@ -1,0 +1,26 @@
+{
+  "item": {
+    "id": "com.vela.selftest",
+    "restype": "quick_app",
+    "name": "设备自检",
+    "description": "一键读出你手环/手表的硬件底细：品牌型号、屏幕尺寸与 dpr、类型与屏幕形状、OS 与平台版本、API 等级，还带屏幕旋转测试。开发者排查快应用适配问题、普通用户看设备参数都很好用。零依赖、不联网、不申请敏感权限。",
+    "preview": [
+      "preview.png"
+    ],
+    "icon": "icon.png",
+    "cover": "preview.png",
+    "author": [
+      {
+        "name": "w2517",
+        "author_url": "https://github.com/w2517"
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.3",
+      "file_name": "com.vela.selftest.debug.1.0.3.rpk"
+    }
+  }
+}
